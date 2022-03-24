@@ -1,8 +1,11 @@
-.set_btn {
+.btn {
     
     border:none;
     background-color: transparent;
     height: 10px;
     width: 10px;
+    
+}
+.input{
     
 }
