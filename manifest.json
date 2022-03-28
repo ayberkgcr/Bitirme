@@ -6,7 +6,7 @@
     "version": "1.0",
   
     "icons": {
-      "48": "icon.png"
+      "48": "davud.png"
     },
   
     "permissions": ["tabs", "<all_urls>"],
